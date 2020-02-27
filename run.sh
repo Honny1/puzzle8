@@ -1,0 +1,1 @@
+python3 -m eight_puzzle.gui
